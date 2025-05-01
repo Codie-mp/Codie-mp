@@ -1,4 +1,5 @@
-![Codie Banner](https://github.com/user-attachments/assets/f9e161ac-99b3-4e2b-aaf0-48a6228dd0dc)
+![Codie Banner](<img width="1188" alt="1" src="https://github.com/user-attachments/assets/118ff345-b46a-4706-a318-40041db04594" />)
+
 
 
 <h1 align="center">🚀 Codie – Templates That Build Faster</h1>
