@@ -50,10 +50,10 @@ Codie is a digital marketplace for ready-made, high-quality templates for **mobi
 Want to partner with Codie, suggest template ideas, or join our developer community?
 
 📬 Contact us at: **mp.codie@gmail.com**  
-🌐 Visit: [codie-mp](https://codie-mp.vercel.app/) *(placeholder)*
-🔗 Visit: [Codie on Linkedin](https://www.linkedin.com/company/codie-mp/) *(placeholder)*
-🔗 Visit: [Codie on Facebook](https://www.facebook.com/mp.codie) *(placeholder)*
-🔗 Visit: [Codie WhatsApp channel](https://whatsapp.com/channel/0029VbA4L7W3LdQTXdmErX1l) *(placeholder)*
+🌐 Visit: [codie-mp](https://codie-mp.vercel.app/)
+🔗 Visit: [Codie on Linkedin](https://www.linkedin.com/company/codie-mp/)
+🔗 Visit: [Codie on Facebook](https://www.facebook.com/mp.codie) 
+🔗 Visit: [Codie WhatsApp channel](https://whatsapp.com/channel/0029VbA4L7W3LdQTXdmErX1l)
 ---
 
 <p align="center">
