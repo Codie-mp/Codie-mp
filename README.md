@@ -1,4 +1,4 @@
-![Codie Banner](<img width="1188" alt="1" src="https://github.com/user-attachments/assets/118ff345-b46a-4706-a318-40041db04594" />)
+![Codie Banner]<img width="1188" alt="1" src="https://github.com/user-attachments/assets/118ff345-b46a-4706-a318-40041db04594" />
 
 
 
