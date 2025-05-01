@@ -2,7 +2,7 @@
 
 <h1 align="center">🚀 Codie – Templates That Build Faster</h1>
 
-<p align="center">
+<p align="center" width="full">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%7C+Save+Time+%7C+Save+Cost+%7C+Reduce+Workforce;Ready-made+Web+%26+Mobile+App+Templates;Built+by+Developers+for+Companies;Customize+Templates+%7C+Sell+Your+Own+Code" alt="Typing SVG" />
 </p>
 
